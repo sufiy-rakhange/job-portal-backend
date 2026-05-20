@@ -20,7 +20,7 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-        'https://your-vercel-app.vercel.app'
+        'https://job-portal-frontend-dun-seven.vercel.app'
     ],
 
     'allowed_origins_patterns' => [],
